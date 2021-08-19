@@ -1,0 +1,29 @@
+{
+  "name": "node_tutor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duong233/node_tutor.git"
+  },
+  "keywords": [
+    "duong_nodejs"
+  ],
+  "author": "Doug233",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duong233/node_tutor/issues"
+  },
+  "homepage": "https://github.com/duong233/node_tutor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
